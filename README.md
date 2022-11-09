@@ -1,5 +1,5 @@
 # LibraryApp
-LibraryApp is a Spring Boot application with CRUD operations and authentication-based login using Spring Security. It uses MySQL database.
+LibraryApp is a Spring Boot application with CRUD operations and authentication-based login using Spring Security. It uses MySQL as database and Thymeleaf as templating engine.
 
 ## First steps
 1. Create new database, new user and grant privileges or use root user.
